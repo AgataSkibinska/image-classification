@@ -1,6 +1,8 @@
 # Data / images
 data/
 notebooks/images/
+notebooks/models/
+notebooks/results/
 
 # Pycharm
 .idea/
